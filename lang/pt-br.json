@@ -13,10 +13,10 @@
   "BIO.EXPERIENCE": "Experiência",
   "BIO.WILLPOWER": "Força de Vontade",
 
-  "ATTRIBUTE.STRENGTH": "FORÇA",
-  "ATTRIBUTE.AGILITY": "AGILIDADE",
-  "ATTRIBUTE.WITS": "ASTÚCIA",
-  "ATTRIBUTE.EMPATHY": "EMPATIA",
+  "ATTRIBUTE.STRENGTH": "Força",
+  "ATTRIBUTE.AGILITY": "Agilidade",
+  "ATTRIBUTE.WITS": "Astúcia",
+  "ATTRIBUTE.EMPATHY": "Empatia",
 
   "SKILL.MIGHT": "Potência",
   "SKILL.ENDURANCE": "Resiliência",
@@ -55,7 +55,7 @@
   "HEADER.BODY": "CORPO",
   "HEADER.CLOTHING": "ROUPAS",
   "HEADER.ATTACK": "ATAQUES",
-  "HEADER.BUILDING": "BUILDINGS",
+  "HEADER.BUILDING": "FUNÇÕES",
   "HEADER.HIRELING": "SERVIÇAIS",
   "HEADER.RAW_MATERIAL": "MATERIAL BRUTO",
 
@@ -81,18 +81,18 @@
   "TAB.GEAR": "EQUIPAMENTO",
   "TAB.BIO": "BIO",
   "TAB.NOTE": "NOTAS",
-  "TAB.BUILDING": "FORTALEZA",
+  "TAB.BUILDING": "FUNÇÕES",
   "TAB.HIRELING": "SERVIÇAIS",
 
   "WEAPON.NAME": "Nome",
   "WEAPON.CATEGORY": "Categoria",
-  "WEAPON.GRIP": "Manejo",
+  "WEAPON.GRIP": "Empunhadura",
   "WEAPON.BONUS": "Bônus",
   "WEAPON.DAMAGE": "Dano",
   "WEAPON.RANGE": "Alcance",
   "WEAPON.FEATURE": "Característica",
   "WEAPON.DESCRIPTION": "Descrição",
-  "WEAPON.DRAWBACK": "Drawback",
+  "WEAPON.DRAWBACK": "Desvantagem",
   "WEAPON.APPEARANCE": "Aparência",
   "WEAPON.MELEE": "Corpo-a-Corpo",
   "WEAPON.RANGED": "À Distância",
@@ -102,7 +102,7 @@
   "WEAPON.SKILL_BONUS": "Bônus de Perícia",
 
   "ITEM.ATTACK": "Ataque",
-  "ITEM.BUILDING": "Fortaleza",
+  "ITEM.BUILDING": "Função",
   "ITEM.CRITICAL_INJURY": "Ferimento Grave",
   "ITEM.GEAR": "Equipamento",
   "ITEM.HIRELING": "Serviçal",
@@ -154,6 +154,7 @@
   "PUSH": "FORÇAR!",
   "PUSHED": "Forçou",
   "DAMAGE": "Dano",
+  "ENCUMBRANCE": "Capacidade de Carga",
   "POWER_LEVEL": "Nível de Poder",
   "SUCCEED": "Passou",
   "FAILED": "Falhou",
@@ -185,10 +186,10 @@
   "HIRELING.SALARY": "Salário",
   "HIRELING.DESCRIPTION": "Descrição",
   "HIRELING.SUPPLY": "Suprimento",
-
+  
   "ATTACK.BLUNT": "Contundente",
   "ATTACK.FEAR": "Medo",
-  "ATTACK.SLASH": "Slash",
+  "ATTACK.SLASH": "Cortante",
   "ATTACK.STAB": "Golpear",
   "ATTACK.OTHER": "Outros"
 }
